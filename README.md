@@ -1,1 +1,3 @@
 # ws
+
+Workshop Laravel Resources
