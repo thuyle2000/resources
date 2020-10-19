@@ -1,3 +1,3 @@
 # ws
 
-Workshop Laravel Resources
+Resources for Students
